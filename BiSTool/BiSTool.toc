@@ -1,0 +1,7 @@
+## Interface: 30300
+## Title: |cff00ccffGM| BiS Tool
+## Author: Sylian
+## Version 1.0
+ItemList.lua
+Commands.lua
+Core.lua

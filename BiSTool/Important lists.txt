@@ -1,0 +1,23 @@
+Item list
+
+
+
+				Helm = 0,
+				Neck = 0,
+				Shoulder = 0,
+				Back = 0,
+				Chest = 0,
+				Shirt = 0,
+				Tabard = 0,
+				Wrists = 0,
+				Weapon = 0,
+				Offhand = 0,
+				Hands = 0,
+				Waist = 0,
+				Legs = 0,
+				Feet = 0,
+				Finger1 = 0,
+				Finger2 = 0,
+				Trinket1 = 0,
+				Trinket2 = 0,
+				Ranged = 0,
